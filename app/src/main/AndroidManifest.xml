@@ -16,7 +16,7 @@
         <activity
                 android:name=".SplashActivity"
                 android:label="@string/app_name"
-                android:theme="@style/AppTheme.NoActionBar">
+                android:theme="@style/SplashTheme">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
                 <category android:name="android.intent.category.LAUNCHER"/>
@@ -25,13 +25,13 @@
 
         <activity
                 android:name=".LoginActivity"
-                android:label="@string/title_activity_login">
+                android:label="@string/title_activity_login"
+                android:theme="@style/asd">
 
         </activity>
         <activity
                 android:name=".ScrollingActivity"
-                android:label="@string/app_name"
-                android:theme="@style/AppTheme.NoActionBar">
+                android:label="@string/app_name">
         </activity>
 
         <meta-data

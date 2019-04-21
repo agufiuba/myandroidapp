@@ -92,8 +92,8 @@
     <string name="action_settings">Settings</string>
     <string name="title_activity_login">Sign in</string>
     <!-- Strings related to login -->
-    <string name="prompt_email">Email or phone</string>
-    <string name="action_sign_in">Sign in or register</string>
+    <string name="prompt_email">Usuario</string>
+    <string name="action_sign_in">Iniciar sesion</string>
     <string name="error_invalid_email">This email address is invalid</string>
     <string name="error_invalid_password">This password is too short</string>
     <string name="error_incorrect_password">This password is incorrect</string>
